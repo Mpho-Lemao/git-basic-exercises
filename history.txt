@@ -1,0 +1,744 @@
+    1  sudo apt update && sudo apt upgrade
+    2  exit
+    3  date -u
+    4  date
+    5  time
+    6  time -u
+    7  time
+    8  npm --version
+    9  sudo apt install npm
+   10  sudo apt update
+   11  apt list upgradable
+   12  sudo apt install nodejs npm
+   13  npm install -g create-react-app
+   14  npx create-react-app my-react-app
+   15  cd my-react-app
+   16  npm start
+   17  sudo apt update
+   18  sudo apt install
+   19  sudo apt-get update
+   20  sudo apt-get upgrade
+   21  sudo reboot
+   22  --version
+   23  version
+   24  clear
+   25  cd
+   26  cd root
+   27  cd c
+   28  cd ./C
+   29  cd /C
+   30  cd home
+   31  code .
+   32  git
+   33  clone
+   34  clear
+   35  git remote add origion https://github.com/freeCodeCamp/boilerplate-npm.git
+   36  gh repo clone freeCodeCamp/boilerplate-npm
+   37  git remote add origion git@github.com:freeCodeCamp/boilerplate-npm.git
+   38  git --version
+   39  cd
+   40  ls
+   41  cd root
+   42  cd
+   43  ls
+   44  cd ..
+   45  ls
+   46  cd ..
+   47  ls
+   48  cd home
+   49  ls
+   50  cd ..
+   51  ls
+   52  cd boot
+   53  ls
+   54  cd ..
+   55  cd root
+   56  cd media
+   57  ls
+   58  mkdir prac
+   59  exit
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd home
+   66  dir
+   67  cd mpholinux
+   68  dir
+   69  touch anything.txt
+   70  dir
+   71  mkdir whatever
+   72  ls
+   73  code .
+   74  dir
+   75  cd whatever
+   76  gh repo clone https://github.com/freeCodeCamp/boilerplate-npm.git
+   77  sudo apt install gh
+   78  gh repo clone https://github.com/freeCodeCamp/boilerplate-npm.git
+   79  gh auto login
+   80  `gh auto login`
+   81  `gh auth login`
+   82  gh repo clone https://github.com/freeCodeCamp/boilerplate-npm.git
+   83  gh auth login
+   84  gh repo clone https://github.com/freeCodeCamp/boilerplate-npm.git
+   85  cd
+   86  cd ..
+   87  code .
+   88  la
+   89  ls
+   90  cd mpholinux
+   91  ls
+   92  la
+   93  cd .npm
+   94  ls
+   95  la
+   96  cd ..
+   97  cd..
+   98  cd ..
+   99  la
+  100  cd ..
+  101  la
+  102  ls
+  103  cd home
+  104  ls
+  105  cd mpholinux
+  106  ls
+  107  cd boilerplate-npm
+  108  ls
+  109  la
+  110  cd .git
+  111  la
+  112  ls
+  113  clear
+  114  cd ..
+  115  ls
+  116  cd whatever
+  117  gh repo clone https://github.com/mpho-lemao/alx-website.git
+  118  cd ..
+  119  ls
+  120  cd mpholinux
+  121  cd whatever
+  122  ls
+  123  mkdir ssh-keys
+  124  cd ssh-keys
+  125  la
+  126  ssh-keygen -t rsa -b 4096 -C "ntabejane.lemao00@gmail.com"
+  127  cd ..
+  128  cd..
+  129  cd ..
+  130  cd .ssh
+  131  ls
+  132  la
+  133  claer
+  134  clear
+  135  ls
+  136  cd whatever
+  137  la
+  138  cd ssh-keys
+  139  ls | grep testkey
+  140  cat testkey.pub
+  141  eval "$(ssh-agent -s)"
+  142  ssh-add ~/whatever/ssh-keys/testkey
+  143  cd ..
+  144  ls
+  145  cd alx-website
+  146  git branch
+  147  cd ..
+  148  cd fcc-prac2
+  149  git branch
+  150  git checkout -b second-branch
+  151  git branch
+  152  git checkout master
+  153  git checkout second-branch
+  154  git status
+  155  git add .
+  156  git status
+  157  git commit -m "Updated README"
+  158  git checkout master
+  159  git checkout second-branch 
+  160  git diff second-branch 
+  161  git diff second-branch
+  162  git checkout master
+  163  git pull
+  164  git branch
+  165  git branch -d second-branch
+  166  git branch
+  167  git status
+  168  git diff
+  169  clear
+  170  git commit -am "added line"
+  171  git checkout master
+  172  exit
+  173  git status
+  174  ls
+  175  cd mpholinux
+  176  ls
+  177  cd whatever
+  178  cd alx-website
+  179  git status
+  180  clear
+  181  mkdir gitprac
+  182  cd gitprac
+  183  touch README.md
+  184  git status
+  185  GIT STATUS
+  186  git status
+  187  git add .
+  188  git status
+  189  touch index.html
+  190  git status
+  191  git add .
+  192  git status
+  193  git add .
+  194  git status
+  195  git commit -m "Added new folder and files" -m "Created README.md and index.html."
+  196  git config user.name "mpho-lemao"
+  197  git commit -m "Added new folder and files" -m "Created README.md and index.html."
+  198  git config user.email "ntabejane.lemao00@gmail.com"
+  199  git config user.name "mpho-lemao"
+  200  git commit --amend --reset-author
+  201  git push alx-website alx-website
+  202  git push alx-website
+  203  git push origin alx-website
+  204  git push origin
+  205  git status
+  206  git add .
+  207  git commit -m "Adjusted title"
+  208  git push origin
+  209  cd ..
+  210  mkdir fcc-prac2
+  211  cd fcc-prac2
+  212  touch README.md
+  213  git init
+  214  git add .
+  215  git status
+  216  git commit -m "Created README"
+  217  git config --global user.email "ntabejane.lemao00@gmail.com"
+  218  git config --global user.name "mpho-lemao"
+  219  git commit -m "Created README"
+  220  git remote add origin https://github.com/mpho-lemao/fcc-prac2.git
+  221  git remote -v
+  222  git push -u origin
+  223  git push --set-upstream origin master
+  224  cd ..
+  225  ls
+  226  cd alx-website
+  227  git status
+  228  cd gitprac
+  229  la
+  230  git status
+  231  git add .
+  232  git status
+  233  git commit
+  234  git commit -m "Added second line"
+  235  git push
+  236  git diff second-branch
+  237  cd ..
+  238  cd fcc-prac2
+  239  ls
+  240  cd ..
+  241  cd fcc-prac2
+  242  git diff second-branch
+  243  git checkout master
+  244  git diff second-branch
+  245  git checkout second-branch
+  246  git status
+  247  git push
+  248  git push --set-upstream origin second-branch
+  249  touch index.html
+  250  git status
+  251  git add .
+  252  git status
+  253  git commit -m "Added index.html"
+  254  git push
+  255  git status
+  256  git add .
+  257  git commit -m "Added one line"
+  258  git push
+  259  git branch
+  260  git status
+  261  git push
+  262  git status
+  263  git add .
+  264  git status
+  265  git reset README.md
+  266  git status
+  267  git add .
+  268  git commit -m "added line"
+  269  git status
+  270  git reset HEAD~1
+  271  git status
+  272  git diff
+  273  git log
+  274  git staus
+  275  git status
+  276  git -am "added line"
+  277  git commit -am "added line"
+  278  git push
+  279  npm --version
+  280  node --version
+  281  update
+  282  sudo apt update
+  283  sudo apt upgrade
+  284  apt list --upgradable
+  285  clear
+  286  code .
+  287  firefox
+  288  sudo apt install firefox
+  289  firefox
+  290  wsl --shutdown
+  291  gimp
+  292  nautilus
+  293  xcalc
+  294  firefox
+  295  exit
+  296  firefox
+  297  clear
+  298  code .
+  299  cd ..
+  300  ls
+  301  cd mpholinux
+  302  ls
+  303  git clone https://github.com/freeCodeCamp/boilerplate-express.git
+  304  ubuntu
+  305  version
+  306  --version
+  307  cd ..
+  308  la
+  309  cd mpholinux
+  310  la
+  311  cd ..
+  312  la
+  313  ls
+  314  cd home
+  315  ls
+  316  cd ..
+  317  ls
+  318  cd media
+  319  la
+  320  touch fart.cpp
+  321  touch fart.txt
+  322  cd ..
+  323  cd home
+  324  touch fart.txt
+  325  cd mpholinux
+  326  touch fart.txt
+  327  ls
+  328  delete fart.txt
+  329  help
+  330  read fart.txt
+  331  history -anrw fart.txt
+  332  kill  fart.txt
+  333  time
+  334  times
+  335  time -u
+  336  date
+  337  date -u
+  338  ls
+  339  touch fart.txt
+  340  ls
+  341  man -k
+  342  sudo
+  343  man -k
+  344  snap
+  345  snap info
+  346  sudo snap info
+  347  man -k
+  348  sudo snap
+  349  snap model
+  350  snap validate
+  351  snap alias
+  352  snap firefox alias
+  353  windows
+  354  ms
+  355  forget
+  356  cd ..
+  357  ls
+  358  cd mpholinux
+  359  ls
+  360  touch sudo.js
+  361  ls
+  362  dir
+  363  cd
+  364  touch play.js
+  365  dir
+  366  mkdir ES6_FCC
+  367  mv play.js ES6_FCC
+  368  cd ES6_FCC
+  369  dir
+  370  la
+  371  touch index.html
+  372  touch styles.css
+  373  dir
+  374  cls
+  375  clear
+  376  cls
+  377  clear
+  378  sudo apt update npm
+  379  sudo apt update
+  380  sudo apt-get upgrade
+  381  sudo apt-get update
+  382  apt list upgradable
+  383  sudo apt update
+  384  apt list --upgradable
+  385  apt-get update
+  386  apt-get upgrade
+  387  cd ..
+  388  dir
+  389  cd ..
+  390  ls
+  391  cd ..
+  392  ls
+  393  cd home
+  394  sudo apt install Node.js
+  395  Node.js -v
+  396  npm --version
+  397  node.js --version
+  398  nodejs --version
+  399  sudo apt install nodejs
+  400  clear
+  401  cl
+  402  firefox
+  403  clear
+  404  firefox
+  405  clear
+  406  wsl --update
+  407  sudo apt install microsoft-edg-dev
+  408  exit
+  409  ## Setup
+  410  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+  411  sudo install -o root -g root -m 644 microsoft.gpg /usr/share/keyrings/
+  412  sudo sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/microsoft.gpg] https://packages.microsoft.com/repos/edge stable main" > /etc/apt/sources.list.d/microsoft-edge-dev.list'
+  413  sudo rm microsoft.gpg
+  414  ## Install
+  415  sudo apt update
+  416  sudo apt install microsoft-edge-dev## Setup
+  417  curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+  418  sudo install -o root -g root -m 644 microsoft.gpg /usr/share/keyrings/
+  419  sudo sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/microsoft.gpg] https://packages.microsoft.com/repos/edge stable main" > /etc/apt/sources.list.d/microsoft-edge-dev.list'
+  420  sudo rm microsoft.gpg
+  421  ## Install
+  422  sudo apt update
+  423  sudo apt install microsoft-edge-dev
+  424  microsoft-edge-dev
+  425  la
+  426  ls
+  427  exit
+  428  ls
+  429  cd ES6_FCC
+  430  LA
+  431  la
+  432  ls
+  433  clear
+  434  cd
+  435  ls
+  436  cd
+  437  cd snap
+  438  la
+  439  cd firefox
+  440  la
+  441  cd
+  442  ls
+  443  code .
+  444  sudo apt update
+  445  apt list --upgradable
+  446  sudo apt upgrade
+  447  shutdown
+  448  exit
+  449  wsl update
+  450  update
+  451  sudo apt update
+  452  sudo apt upgrade -y
+  453  sudo apt update
+  454  sudo apt upgrade -y
+  455  sudo apt upgrade
+  456  python update
+  457  python
+  458  python3
+  459  cd
+  460  la
+  461  ls
+  462  mkdir "Binary Wizards"
+  463  ls
+  464  cd./"Binary Wizards"
+  465  cd./"'Binary Wizards'"
+  466  cd./'Binary Wizards'
+  467  mkdir Binary Wizards
+  468  ls
+  469  cd./Binary
+  470  cd./Binary Wizards
+  471  rm -d Binary
+  472  ls
+  473  rm -d Binary Wizards
+  474  rm -d 'Binary Wizards'
+  475  ls
+  476  git clone https://github.com/octaviav/JCW_Hackathon.git
+  477  git
+  478  git login
+  479  git clone https://github.com/octaviav/JCW_Hackathon.git
+  480  ls
+  481  exit
+  482  ls
+  483  cd./whatever
+  484  cd whatever
+  485  cd..
+  486  cd ..
+  487  mkdir binary_Wizards
+  488  cd Binary_Wizards
+  489  mv binary_Wizards Binary_Wizards
+  490  ls
+  491  cd Binary_Wizards
+  492  git clone https://github.com/octaviav/JCW_Hackathon.git
+  493  gh auth login
+  494  git clone https://github.com/octaviav/JCW_Hackathon.git
+  495  ls
+  496  cd JCW_ Hackathon
+  497  cd JCW_Hackathon
+  498  la
+  499  code .
+  500  explorer.exe.
+  501  explorer.exe
+  502  ls
+  503  exit
+  504  ls
+  505  rm -rf Binary_Wizards
+  506  ls
+  507  cd whatever
+  508  ls
+  509  cd ..
+  510  ls
+  511  cd boilerplate-express
+  512  ls
+  513  cd ..
+  514  rm -rf boilerplate-express
+  515  ls
+  516  exit
+  517  firefox
+  518  exit
+  519  sudo apt update
+  520  apt list --upgradable
+  521  sudo apt upgrade
+  522  ls
+  523  cd ..
+  524  ls
+  525  cd ..
+  526  ls
+  527  ch home
+  528  cd home
+  529  cd mpholinux
+  530  ls
+  531  ch whatever
+  532  cd whatever
+  533  ls
+  534  cd ssh-keys
+  535  ls
+  536  cd ..
+  537  version
+  538  wsl --version
+  539  linux --version
+  540  clear
+  541  help
+  542  sudo apt-get update
+  543  sudo apt-get install ./docker-desktop-<arch>.deb
+  544  sudo apt-get update
+  545  sudo apt-get install ./docker-desktop-<arch>.deb
+  546  exit
+  547  ls
+  548  exit
+  549  ls
+  550  clear
+  551  exit
+  552  sudo apt-get update
+  553  sudo apt update
+  554  sudo apt upgrade
+  555  sudo apt update
+  556  apt list --upgradable
+  557  apt list --upgradable -a
+  558  sudo apt upgrade
+  559  pwd
+  560  ls
+  561  cd snap
+  562  ls
+  563  cd firefox
+  564  ls
+  565  firefox
+  566  exit
+  567  --version
+  568  linux --version
+  569  wsl --version
+  570  linux version
+  571  clear
+  572  chrome
+  573  chromium
+  574  clear
+  575  man
+  576  man -help
+  577  man -f
+  578  man --whatis
+  579  man --usage
+  580  man --version
+  581  man --ascii
+  582  man man
+  583  man ls
+  584  man pwd
+  585  pwd -L
+  586  pwd -P
+  587  iperf 8.8.8.8
+  588  sudo apt install iperf
+  589  iperf 8.8.8.8
+  590  iperf --help
+  591  iperf -c 8.8.8.8
+  592  iperf -c 165.73.84.77
+  593  iperf -c 8.8.8.8
+  594  iperf -c 165.73.84.77:80
+  595  iperf -c 165.73.84.77
+  596  sudo apt update
+  597  apt list -- upgradable
+  598  apt list --upgradable
+  599  apt list --upgradable -a
+  600  sudo apt upgrade
+  601  reboot
+  602  reboot -help
+  603  reboot --help
+  604  reboot --reboot
+  605  restart
+  606  exit
+  607  clear
+  608  ip addr show
+  609  hostname
+  610  ip --help
+  611  ip address show
+  612  netstat
+  613  sudo apt install net-tools
+  614  netstat
+  615  ip addr show
+  616  clear
+  617  tcpdstat -c
+  618  tcpstat -c
+  619  ifconfig
+  620  ifconfig --help
+  621  sudo apt install net-tools
+  622  ls
+  623  cat sudo.js
+  624  ls
+  625  cat anything.txt
+  626  cd ES6_FCC
+  627  ls
+  628  cat play.js
+  629  reboot
+  630  exit
+  631  ls
+  632  la
+  633  clear
+  634  ls /
+  635  ls
+  636  pwd
+  637  mkdir poop
+  638  cd poop
+  639  cd ..
+  640  rm poop
+  641  rm -r poop
+  642  cd poop
+  643  ls
+  644  cd snap
+  645  ls
+  646  cd firefox
+  647  ls
+  648  la
+  649  ls /
+  650  ls -la
+  651  ls
+  652  cd ../..
+  653  ls
+  654  cd home
+  655  cd snap
+  656  ls
+  657  cd mpholinux
+  658  cd snap
+  659  cd home
+  660  man
+  661  man man
+  662  man ls
+  663  man netstat
+  664  clear
+  665  mkdir Umuzi
+  666  cd Umuzi
+  667  touch pseudo.txt
+  668  ls
+  669  cd ..
+  670  rm -r Umuzi
+  671  cd Umuzi
+  672  reboot
+  673  restart
+  674  exit
+  675  ipconfig
+  676  ifconfig
+  677  ip
+  678  ip netconf
+  679  ip address
+  680  ls
+  681  mkdir git-basic-exercises
+  682  cd git-basic-exercises
+  683  la
+  684  man ls
+  685  man la
+  686  clear
+  687  ls
+  688  ls -a
+  689  git init
+  690  ls -a
+  691  cd .git
+  692  ls -a
+  693  ls
+  694  cd ..
+  695  git status
+  696  touch README.md
+  697  ls -a
+  698  git status
+  699  git log
+  700  git add README.md
+  701  git status
+  702  git reset
+  703  git status
+  704  git add README.md
+  705  git status
+  706  git commit -m "initial commit"
+  707  git log
+  708  nano README.md
+  709  cat README.md
+  710  git status
+  711  git add README.md
+  712  git status
+  713  git commit -m "second commit"
+  714  nano README.md
+  715  git status
+  716  git add README.md
+  717  git commit -m "third commit"
+  718  git log
+  719  git checkout d0f9cc65cd51fc4d0e822468ada4eb99be3f13e7
+  720  cat README.md
+  721  git checkout main
+  722  git checkout master
+  723  cat README.md
+  724  gi branch
+  725  git branch
+  726  git branch milkshake-flavours
+  727  git branch
+  728  git checkout milkshake-flavours
+  729  git branch
+  730  nano milkshakes.md
+  731  cat milkshakes.md
+  732  git status
+  733  git add milkshakes.md
+  734  git commit -m "added initial flavours"
+  735  git status
+  736  git log
+  737  git checkout master
+  738  git status
+  739  ls
+  740  git branch history
+  741  git checkout history
+  742  git log
+  743  git branch
+  744  history > history.txt
